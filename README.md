@@ -1,1 +1,13 @@
 "# springboot-basic-demos" 
+01‑param‑receive‑demo      请求参数接收
+02‑yml‑properties‑demo     配置文件读取
+03‑global‑exception‑demo    全局异常统一处理
+04‑interceptor‑demo        拦截器使用
+05‑filter‑demo             过滤器使用
+06‑aop‑demo                AOP切面日志
+07‑validation‑demo         参数校验Validation
+08‑unit‑test‑demo          SpringBoot单元测试
+09‑static‑res‑demo         静态资源访问
+10‑profile‑env‑demo        多环境配置切换
+11‑task‑schedule‑demo      定时任务@Scheduled
+12‑web‑cross‑demo          跨域处理
