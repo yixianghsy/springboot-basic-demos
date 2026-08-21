@@ -1,6 +1,0 @@
-server:
-  port: 8081
-app:
-  name: springboot-basic-demo
-  version: 1.0.0
-  max-size: 1024
