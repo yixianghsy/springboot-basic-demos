@@ -1,4 +1,4 @@
-package com.dome;
+package com.demo;
 
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
