@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="06-aop-demo" />
         <module name="03-global-exception-demo" />
         <module name="05-filter-demo" />
         <module name="01-param-receive-demo" />
@@ -24,6 +25,7 @@
       <module name="03-global-exception-demo" options="-parameters" />
       <module name="04-interceptor-demo" options="-parameters" />
       <module name="05-filter-demo" options="-parameters" />
+      <module name="06-aop-demo" options="-parameters" />
     </option>
   </component>
 </project>
