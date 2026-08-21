@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/01-param-receive-demo/pom.xml" />
         <option value="$PROJECT_DIR$/02-yml-properties-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/03-global-exception-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

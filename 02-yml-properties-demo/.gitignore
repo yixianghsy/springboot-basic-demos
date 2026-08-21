@@ -1,0 +1,7 @@
+# IDEA
+.idea/
+out/
+*.iml
+
+# Maven 编译产物，所有模块target全部忽略
+target/
