@@ -1,4 +1,0 @@
-server:
-  port: 8090
-env:
-  desc: "生产环境 prod"

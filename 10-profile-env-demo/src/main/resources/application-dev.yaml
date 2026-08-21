@@ -1,0 +1,5 @@
+server:
+  port: 8089
+env:
+  desc: "这是开发环境 (Development)"
+  
