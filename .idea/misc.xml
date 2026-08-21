@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/04-interceptor-demo/pom.xml" />
         <option value="$PROJECT_DIR$/05-filter-demo/pom.xml" />
         <option value="$PROJECT_DIR$/06-aop-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/07-validation-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

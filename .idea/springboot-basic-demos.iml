@@ -19,6 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/07-validation-demo/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/08-unit-test-demo/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08-unit-test-demo/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/08-unit-test-demo/src/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/09-static-res-demo/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09-static-res-demo/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/10-profile-env-demo/src/main/java" isTestSource="false" />
