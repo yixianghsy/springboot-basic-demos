@@ -1,0 +1,7 @@
+server:
+  port: 8088
+# 自定义静态资源路径
+spring:
+  web:
+    resources:
+      static-locations: classpath:/static/,classpath:/public/
